@@ -1,0 +1,19 @@
+{
+  "name": "dutyapp",
+  "version": "1.0.0",
+  "description": "Self-Orginizing Duty App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saharcohen/DutyApp.git"
+  },
+  "author": "Sahar Cohen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saharcohen/DutyApp/issues"
+  },
+  "homepage": "https://github.com/saharcohen/DutyApp#readme"
+}
